@@ -1,4 +1,5 @@
 ﻿
+
 Console.Write("Введите любой номер для проверки на ПАЛИНДРОМ : ");
 int number = int.Parse(Console.ReadLine()!);
 int remineder, sum = 0;
