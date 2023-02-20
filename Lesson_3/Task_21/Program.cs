@@ -1,5 +1,4 @@
 ﻿
-
 Console.Clear();
 Console.Write("Выведите X1:  ");
 double x1 = double.Parse(Console.ReadLine());

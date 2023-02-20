@@ -1,5 +1,4 @@
 ﻿
-
 Console.Clear();
 Console.Write("Выведите число N:  ");
 int N = int.Parse(Console.ReadLine());        
